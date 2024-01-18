@@ -1,0 +1,9 @@
+.Board-Row{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.BoardContainer{
+    margin: 30px 40px;
+    
+}
